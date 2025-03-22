@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apexcharts": "^4.4.0",
+    "echarts": "^5.6.0",
+    "vue-echarts": "^7.0.3",
+    "vue3-apexcharts": "^1.8.0"
+  }
+}
