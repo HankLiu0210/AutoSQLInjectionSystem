@@ -33,3 +33,4 @@ logs/
 # OS specific
 .DS_Store
 Thumbs.db
+cve_database.sql
